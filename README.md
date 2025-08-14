@@ -11,7 +11,7 @@ Welcome to **Essential-loops-Python** - your comprehensive guide to mastering Py
 
 This repository contains the **top 10 essential loop solutions** in Python that serve as the prime foundation for **Data Automation**. Whether you're a beginner looking to understand the basics or an experienced developer seeking to refresh your loop knowledge, this collection will help you learn, understand, and practice for maximum accuracy.
 
-![Python Loops Banner](https://via.placeholder.com/800x200/1e3a8a/ffffff?text=Python+Loops+Mastery)
+![Python Loops Banner](https://img.icons8.com/?size=100&id=dISXdAmgJi1w&format=png&color=000000)
 
 ## 🎯 What You'll Learn
 
@@ -23,36 +23,12 @@ This repository contains the **top 10 essential loop solutions** in Python that 
 | 📊 **List Comprehensions** | Concise loop syntax for lists | Data filtering, mathematical operations |
 | 🏃 **Loop Control** | Break, continue, pass statements | Flow control, error handling |
 
-## 🗂️ Repository Structure
-
-```
-Essential-loops-Python/
-├── 📁 basic_loops/
-│   ├── for_loop_examples.py
-│   ├── while_loop_examples.py
-│   └── range_iterations.py
-├── 📁 advanced_loops/
-│   ├── nested_loops.py
-│   ├── loop_control_flow.py
-│   └── list_comprehensions.py
-├── 📁 data_automation/
-│   ├── file_processing.py
-│   ├── csv_operations.py
-│   └── json_manipulation.py
-├── 📁 practice_problems/
-│   ├── beginner_challenges.py
-│   ├── intermediate_problems.py
-│   └── advanced_solutions.py
-├── 📁 examples/
-│   └── real_world_scenarios.py
-└── README.md
-```
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 
-![Python Logo](https://via.placeholder.com/50x50/3776ab/ffffff?text=🐍)
+![Python Logo](https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000)
 
 - Python 3.6 or higher
 - Basic understanding of Python syntax
@@ -105,7 +81,6 @@ for row in matrix:
 
 ## 🎨 Visual Learning Guide
 
-![Loop Types](https://via.placeholder.com/600x400/4ade80/ffffff?text=Loop+Types+%26+Applications)
 
 ### Loop Performance Comparison
 
@@ -147,7 +122,7 @@ for row in matrix:
 
 ## 🎯 Data Automation Examples
 
-![Data Automation](https://via.placeholder.com/500x300/ec4899/ffffff?text=Data+Automation+with+Loops)
+![Data Automation](https://img.icons8.com/?size=100&id=nbgdHt9eoTWr&format=png&color=000000)
 
 ### CSV Processing
 ```python
@@ -219,8 +194,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact & Support
 
 - 👤 **Author:** Pakira-J
-- 📧 **Issues:** [GitHub Issues](https://github.com/Pakira-J/Essential-loops-Python/issues)
-- 💬 **Discussions:** [GitHub Discussions](https://github.com/Pakira-J/Essential-loops-Python/discussions)
+
 
 ---
 
@@ -230,7 +204,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Happy Coding!** 🐍💻
 
-![Thank You](https://via.placeholder.com/300x100/10b981/ffffff?text=Thank+You+for+Learning!)
+![Thank You](https://img.icons8.com/?size=100&id=mmthdgLUUrFj&format=png&color=000000)
 
 </div>
 
